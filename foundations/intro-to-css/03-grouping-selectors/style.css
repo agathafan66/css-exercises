@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.black,
+.white {
+    background-size: 10cap;
+    font-size: 28px;
+    font-family: Helvetica, "times New Roman",sans-serif;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.white {
+    background-color: yellow;
+}
